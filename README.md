@@ -19,15 +19,13 @@ http://localhost:3000.
 
 ## Usage
 
-To use this project, start by typing "node server.js" into the terminal. A message in the terminal will say "App listening at http://localhost:3000 🚀". Open the link in your browser and the application is ready to go. The user can now use insomnia to test the back-end routes and functions.
+To use this project, start by typing "node server.js" into the terminal. A message in the terminal will say "App listening at http://localhost:3000". Open the link in your browser the user can now use insomnia to test the back-end routes and functions.
 
 Example video is listed below:
 
 ![Example] https://drive.google.com/file/d/1gX-RqBxDp0lDpF2SdJg1yb1eZlUODDCh/view
 
 ## Credits
-
-Robert Obernier https://github.com/rjo6615
 
 ## License
 
