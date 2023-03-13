@@ -22,7 +22,7 @@ To use this project, start by typing "node server.js" into the terminal. A messa
 
 Example video is listed below:
 
-![Example] (./public/images/Example.gif)
+![Example] (/public/images/Example.gif)
 
 https://drive.google.com/file/d/1XdwkiWUPzYUphOIS8GQ9MykqnKlPW8sh/view
 
