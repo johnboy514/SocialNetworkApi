@@ -14,8 +14,7 @@ This project was designed to further my understanding of mongodb and backend bui
 
 ## Installation
 
-To run this project, the user needs to download the project then open the terminal and move to the main folder of the project. To run the program, the user must type "node server.js" into the terminal. After you must open your browser to
-http://localhost:3000.
+To run this project, the user needs to download the project then open the terminal and type node server.js to start the server.
 
 ## Usage
 
@@ -23,7 +22,9 @@ To use this project, start by typing "node server.js" into the terminal. A messa
 
 Example video is listed below:
 
-![Example] https://drive.google.com/file/d/1gX-RqBxDp0lDpF2SdJg1yb1eZlUODDCh/view
+![Example] (./images/Example.gif)
+
+https://drive.google.com/file/d/1XdwkiWUPzYUphOIS8GQ9MykqnKlPW8sh/view
 
 ## Credits
 
